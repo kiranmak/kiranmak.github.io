@@ -9,7 +9,7 @@ name: Kiran Makhijani
 description: Talking of Networks and Innovations
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/kiranmak/kiranmak.github.io/blob/master/images/photomania-dc7492dcc50647346072b9f2f49f0e72.jpg
+avatar: ./images/photomania-dc7492dcc50647346072b9f2f49f0e72.jpg
 
 #
 # Flags below are optional
